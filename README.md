@@ -1,6 +1,8 @@
-# 👨‍💻 Sobre mim
+# 👋🏻 E aí, como vai?
 
-Olá! Sou estudante do curso de **Desenvolvimento de Sistemas** e tenho grande interesse em construir minha carreira na área de **Tecnologia da Informação (TI)**. 🚀
+## 👨‍💻 Sobre mim
+
+Atualmente estou cursando **Desenvolvimento de Sistemas** e tenho grande interesse em construir minha carreira na área de **Tecnologia da Informação (TI)**. 🚀
 
 ## 🎓 Formação
 
