@@ -39,9 +39,9 @@ Atualmente estou cursando **Desenvolvimento de Sistemas** e tenho grande interes
 
 ## 🎯 Meus objetivos
 
-- 📚 Aprimorar continuamente meus conhecimentos em programação.
+- 📶 Aprimorar continuamente meus conhecimentos em programação.
 - 💻 Desenvolver projetos práticos para aplicar e demonstrar minhas habilidades.
-- 🚀 Explorar novas tecnologias e evoluir como desenvolvedor.
+- 🤖 Explorar novas tecnologias e evoluir como desenvolvedor.
 - 🤝 Compartilhar meus projetos e colaborar com a comunidade.
 
 ---
